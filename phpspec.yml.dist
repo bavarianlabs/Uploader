@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Bavarian\Component\Uploader
+        psr4_prefix: Bavarian\Component\Uploader
+        src_path: .
